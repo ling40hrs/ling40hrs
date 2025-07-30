@@ -9,16 +9,16 @@
   ### 🛠️ Languages and Tools
   
   <p>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/>
     </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code"/>
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
     </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>
     </a>
   </p>
