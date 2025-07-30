@@ -18,9 +18,6 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
     </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>
-    </a>
   </p>
 
   ---
