@@ -24,9 +24,9 @@
   
   ### 🔥 My Stats & Activity
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ling40hrs&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Ling's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ling40hrs&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=vibe-coding" alt="Ling's GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ling40hrs&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ling40hrs&layout=compact&theme=transparent&hide_border=true&exclude_repo=vibe-coding" alt="Top Languages" />
   
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ling's streak" src="https://streak-stats.demolab.com/?user=ling40hrs&theme=transparent&hide_border=true" />
 
