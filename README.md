@@ -27,6 +27,9 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
     </a>
+    <a href="https://www.debian.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+      <img src="https://skillicons.dev/icons?i=debian" alt="Debian" title="Debian"/>
+    </a>
   </p>
 
   ---
