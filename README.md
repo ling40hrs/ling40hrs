@@ -12,6 +12,15 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/>
     </a>
+      <a href="https://cplusplus.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/>
+    </a>
+      <a href="https://www.java.com/en/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>
+    </a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/>
+    </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code"/>
     </a>
